@@ -1,0 +1,8 @@
+{
+  "name": "WordCountStatus",
+  "description": "Shows a compact word count in the Sublime Text status bar (📝36 words), with selection support.",
+  "author": "Jay Hilwig",
+  "homepage": "https://github.com/jayhilwig/WordCountStatus",
+  "issues": "https://github.com/jayhilwig/WordCountStatus/issues",
+  "labels": ["editing", "productivity"]
+}
